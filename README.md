@@ -32,3 +32,11 @@ Since 2016 &bull; [![GitHub stars](https://img.shields.io/github/stars/sveltejs/
 [htmx](https://htmx.org/) <br>Since 2020 &bull; [![GitHub stars](https://img.shields.io/github/stars/bigskysoftware/htmx)](https://github.com/bigskysoftware/htmx/stargazers)
 
 > htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext
+
+## Contributing
+
+Contributions are always welcome, feel free to open a PR!
+
+## License
+
+awesome-alt-react is licensed under the [MIT license](./LICENSE).
